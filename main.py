@@ -79,4 +79,5 @@ else:
   puntaje = puntaje + 10
   print("Tienes ",puntaje, "acumulados. Es la nota maxima. Felicidades!")
 
+print("******************************************")
 print("Muchas gracias por participar en la trivia")
